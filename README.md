@@ -16,6 +16,7 @@ A collection of hands-on Machine Learning lab notebooks covering core ML concept
 | `KNN_SVM_Ensemble.ipynb` | KNN vs SVM comparison, ensemble methods (Bagging, Boosting, XGBoost) |
 | `K_Means_Clustering.ipynb` | K-Means clustering from scratch, elbow method, DBSCAN |
 | `KMeans_PCA.ipynb` | Dimensionality reduction with PCA, visualizing clusters |
+| `Descision_Trees.ipynb` |  Decision Tree classifier with entropy criterion, confusion matrix, accuracy score & tree visualization |
 
 ---
 
@@ -37,6 +38,7 @@ These labs use real-world datasets to train and evaluate models — not just toy
 | Mushroom Dataset | KNN & Ensemble classification |
 | COVID-19 Dataset | Data analysis & visualization |
 | Iris | Clustering, PCA visualization |
+| Bill Authentication | Descision Trees |
 
 ---
 
@@ -52,7 +54,7 @@ These labs use real-world datasets to train and evaluate models — not just toy
 
 ## Concepts Covered
 
-- **Supervised Learning** — Linear Regression, Logistic Regression, Polynomial Regression, KNN, SVM
+- **Supervised Learning** — Linear Regression, Logistic Regression, Polynomial Regression, KNN, SVM, Descision Trees
 - **Unsupervised Learning** — K-Means Clustering, DBSCAN
 - **Dimensionality Reduction** — Principal Component Analysis (PCA)
 - **Ensemble Methods** — Random Forests, AdaBoost, Gradient Boosting, XGBoost
