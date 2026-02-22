@@ -1,6 +1,6 @@
 # Machine Learning Labs
 
-A collection of hands-on Machine Learning lab notebooks covering core ML concepts, implemented from scratch and using scikit-learn. These labs were completed as part of a 5th semester Machine Learning course.
+A collection of hands-on Machine Learning lab notebooks covering core ML concepts, trained on real-world datasets. Implementations are done both from scratch and using scikit-learn. Completed as part of a 5th semester Machine Learning course.
 
 ---
 
@@ -19,7 +19,28 @@ A collection of hands-on Machine Learning lab notebooks covering core ML concept
 
 ---
 
-##  Tech Stack
+## 📊 Datasets Used
+
+These labs use real-world datasets to train and evaluate models — not just toy data:
+
+| Dataset | Used For |
+|---|---|
+| 1000 Companies | Multiple Linear Regression (profit prediction) |
+| Car Price Prediction | Regression (predicting used car prices) |
+| House / Admission Predict | Linear Regression (admission chance prediction) |
+| Head & Brain | Simple Linear Regression (head size vs brain weight) |
+| Medical Cost Personal | Regression (insurance cost prediction) |
+| Mall Customers | K-Means Clustering (customer segmentation) |
+| Telco Customer Churn | Classification (churn prediction) |
+| Income Evaluation | SVM classification |
+| Social Network Ads | Logistic Regression, KNN, SVM |
+| Mushroom Dataset | KNN & Ensemble classification |
+| COVID-19 Dataset | Data analysis & visualization |
+| Iris | Clustering, PCA visualization |
+
+---
+
+## Tech Stack
 
 - **Python 3**
 - **NumPy** — numerical computations
@@ -29,7 +50,7 @@ A collection of hands-on Machine Learning lab notebooks covering core ML concept
 
 ---
 
-##  Concepts Covered
+## Concepts Covered
 
 - **Supervised Learning** — Linear Regression, Logistic Regression, Polynomial Regression, KNN, SVM
 - **Unsupervised Learning** — K-Means Clustering, DBSCAN
@@ -40,7 +61,7 @@ A collection of hands-on Machine Learning lab notebooks covering core ML concept
 
 ---
 
-##  How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -69,8 +90,8 @@ A collection of hands-on Machine Learning lab notebooks covering core ML concept
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Zimal Fatemah**  
-BS Artificial Intelligence | 6th Semester  
+BS Computer Science | 6th Semester  
 [GitHub](https://github.com/Zimal-Fatemah)
