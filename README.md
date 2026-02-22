@@ -93,5 +93,5 @@ These labs use real-world datasets to train and evaluate models — not just toy
 ## Author
 
 **Zimal Fatemah**  
-BS Computer Science | 6th Semester  
+BS Artificial Intelligence  
 [GitHub](https://github.com/Zimal-Fatemah)
